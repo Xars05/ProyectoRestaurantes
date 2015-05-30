@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoRestaurantes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Actualizar</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="Horario">Horario</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
